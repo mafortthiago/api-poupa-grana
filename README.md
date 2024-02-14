@@ -1,6 +1,6 @@
 # API Spring com PostgreSQL e Spring Security
 
-Este projeto é uma API RESTful desenvolvida com Spring Boot e Spring Security, que se conecta a um banco de dados PostgreSQL. A API permite operações CRUD (Create, Read, Update, Delete) em itens e também fornece rotas de autenticação.
+Este projeto é uma API REST desenvolvida com Spring Boot e Spring Security, que se conecta a um banco de dados PostgreSQL. A API permite operações CRUD (Create, Read, Update, Delete) em itens e também fornece rotas de autenticação.
 
 A api está servindo o projeto [Poupa grana](https://github.com/mafortthiago/poupa-grana).
 
