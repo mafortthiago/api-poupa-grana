@@ -28,7 +28,7 @@ public class SecurityConfigurations {
                     configuration.applyPermitDefaultValues();
                     configuration.addAllowedMethod(HttpMethod.DELETE);
                     configuration.addAllowedMethod(HttpMethod.PUT);
-                    onfiguration.addAllowedMethod(HttpMethod.HEAD);
+                    configuration.addAllowedMethod(HttpMethod.HEAD);
                     return configuration;
                 }))
                 .csrf(csrf -> csrf.disable())
